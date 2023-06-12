@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+}
+h1{
+    margin: 0;
+}
+div{
+    background-color: #e4f9f5;
+}
+.top-container{
+    
+    width: 200px;
+    height: 200px;
+    background-color: #e4f9f5;
+    border: solid;
+    border-width: 10px;
+    padding: 20px;
+    
+
+}
+.middle-container{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border: solid;
+    border-width: 20px;
+    
+
+}
+.bottom-container{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border: solid;
+    border-width: 10px;
+
+}
